@@ -14,8 +14,7 @@ while row_index<src.count do
     element_index +=1
   end
   outer_results << lowes_value
-row_index +=1    
+row_index +=1
   end
 
 end
-
