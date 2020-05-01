@@ -16,5 +16,5 @@ while row_index<src.count do
   outer_results << lowes_value
 row_index +=1
   end
-
+outer_results
 end
